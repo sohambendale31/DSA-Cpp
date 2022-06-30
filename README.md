@@ -1,2 +1,2 @@
 # DSA-Cpp
-Data Structures and Algorithms in C++
+Data Structures and Algorithms using C++
